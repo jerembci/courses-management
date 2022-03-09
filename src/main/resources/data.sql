@@ -1,0 +1,1 @@
+INSERT INTO administration (identifiant, password, nom, prenom) VALUES ('admin', 'admin', 'admin', 'admin')
